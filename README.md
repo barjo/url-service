@@ -1,5 +1,6 @@
 # URL Service
-The URL Service specifies a [h-ubu](http://nano-project.github.com/h-ubu/snapshot/) service to handle URLs (http, https and file).
+The URL Service specifies a [h-ubu](http://nanoko-project.github.com/h-ubu/snapshot/) service to handle URLs (http,
+https and file).
 The URL Parser service allows to parse url and extract the hostname, port, path, parameters...
 
 This projects contains:

@@ -4,7 +4,7 @@
     <groupId>org.nanoko.url</groupId>
     <artifactId>url-service-project</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>nano :: url parser service project</name>
+    <name>nanoko :: url parser service project</name>
     <packaging>pom</packaging>
 
     <parent>
